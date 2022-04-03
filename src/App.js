@@ -11,7 +11,7 @@ function App() {
         </title>
       </Helmet>
       <header className='header'>
-        <h3>پرداخت اینترنتی بانک گاوداری ایران</h3>
+        <h3>پرداخت اینترنتی بانک  ایران</h3>
       </header>
       <div className='container'>
         <main className='main'>
