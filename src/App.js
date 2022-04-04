@@ -1,8 +1,13 @@
 
+import { useEffect } from 'react';
 import { Helmet } from 'react-helmet';
 import './App.scss'
 
 function App() {
+  useEffect(() => {
+  
+    
+  }, []);
   return (
     <>
       <Helmet>
